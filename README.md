@@ -6,7 +6,7 @@
 
 # Follow installation tutorials on
 
-https://arcolinuxd.com/byoi-create-arcolinuxb-xfce-iso/
+https://arcolinuxd.com/byoi-create-arcolinuxb-openbox-iso/
 
 # Websites
 
