@@ -6,7 +6,7 @@
 
 # Follow installation tutorials on
 
-https://arcolinux.com/byoi-on-arcolinux-openbox-only/
+https://arcolinuxd.com/byoi-create-arcolinuxb-xfce-iso/
 
 # Websites
 
