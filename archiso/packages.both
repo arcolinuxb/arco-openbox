@@ -429,10 +429,10 @@ surfn-icons-git
 b43-firmware
 
 #openbox
-#obkey
-#obmenu3
-#obmenu-generator
-#perl-linux-desktopfiles
+obkey
+obmenu3
+obmenu-generator
+perl-linux-desktopfiles
 
 #theming
 #openbox-arc-git
