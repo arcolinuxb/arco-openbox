@@ -436,9 +436,6 @@ obmenu3
 obmenu-generator
 perl-linux-desktopfiles
 
-#theming
-openbox-arc-git
-
 #tools
 mkinitcpio-openswap
 
