@@ -292,6 +292,7 @@ lxrandr
 gtk2-perl
 obconf
 openbox
+gtk-engine-murrine
 
 #themes
 adapta-gtk-theme
