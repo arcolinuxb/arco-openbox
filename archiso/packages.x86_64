@@ -258,7 +258,7 @@ xcursor-simpleandsoft
 #fonts
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
-cantarell-fonts
+#cantarell-fonts
 ckbcomp
 noto-fonts
 terminus-font
@@ -523,7 +523,7 @@ arcolinux-xfce-thunar-git
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
 exo
-#garcon
+garcon
 gtk-xfce-engine
 thunar
 thunar-volman
@@ -547,7 +547,7 @@ xfwm4-themes
 ristretto
 thunar-archive-plugin
 thunar-media-tags-plugin
-#xfburn
+xfburn
 #xfce4-artwork
 #xfce4-battery-plugin
 xfce4-clipman-plugin
