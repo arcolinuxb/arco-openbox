@@ -18,7 +18,7 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-desktop="openbox-lts"
+desktop="openbox"
 calamaresdesktopname="openbox"
 
 #build.sh
@@ -205,6 +205,7 @@ FIND="calamares"
 REPLACE="calamares-lts"
 sudo sed -i "s/$FIND/$REPLACE/g" $WDP/packages.x86_64
 
+read input
 #extra fix for wrong replacement
 FIND="arcolinuxb-calamares-lts-"$calamaresdesktopname"-git"
 REPLACE="arcolinuxb-calamares-"$calamaresdesktopname"-lts-git"
