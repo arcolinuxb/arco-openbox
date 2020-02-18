@@ -532,7 +532,8 @@ arcolinux-zsh-git
 #arcolinux-jwm-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
-arcolinux-openbox-git
+#arcolinux-openbox-git
+arcolinux-openboxb-git
 #arcolinux-openbox-xtended-git
 #arcolinux-plasma-git
 #arcolinux-plasma-nemesis-git
