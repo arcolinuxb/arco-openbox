@@ -625,7 +625,7 @@ arcolinux-config-openbox-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-#arcolinux-dconf-all-desktops-git
+arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
@@ -644,7 +644,7 @@ arcolinux-config-openbox-git
 #arcolinux-kodi-dconf-git
 #arcolinux-lxqt-dconf-git
 #arcolinux-mate-dconf-git
-arcolinux-openbox-dconf-git
+#arcolinux-openbox-dconf-git
 #arcolinux-plasma-dconf-git
 #arcolinux-qtile-dconf-git
 #arcolinux-spectrwm-dconf-git
