@@ -813,7 +813,7 @@ volumeicon
 
 ###openbox
 gtk2-perl
-obkey
+#obkey - python2
 obmenu3
 obmenu-generator
 obconf
